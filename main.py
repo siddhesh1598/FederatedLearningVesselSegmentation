@@ -8,11 +8,11 @@ Original file is located at
 """
 
 # install syft if working on colab
-!pip install syft
+# !pip install syft
 
 # unzip DRIVE and STARE datasets
-!unzip /content/drive/My\ Drive/Colab\ Notebooks/VesselSegmentation/Source_DRIVE_datasets.zip
-!unzip /content/drive/My\ Drive/Colab\ Notebooks/VesselSegmentation/Target_STARE_Dataset.zip
+# !unzip /content/drive/My\ Drive/Colab\ Notebooks/VesselSegmentation/Source_DRIVE_datasets.zip
+# !unzip /content/drive/My\ Drive/Colab\ Notebooks/VesselSegmentation/Target_STARE_Dataset.zip
 
 # import
 import torch

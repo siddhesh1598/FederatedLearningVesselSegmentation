@@ -1,0 +1,7 @@
+opencv_python==4.0.0.21
+torch==1.4.0+cpu
+matplotlib==3.0.2
+torchvision==0.5.0+cpu
+numpy==1.18.1
+imutils==0.5.2
+syft==0.2.9
