@@ -39,7 +39,7 @@ To perform Vessel Segmentation, **UNet** model is used which is present in the *
 ### Test results
 ![Test results](https://github.com/siddhesh1598/FederatedLearningVesselSegmentation/blob/main/stats/TestScore_IoU.png?raw=true) <br>
 The test results show that the model trained on combined DRIVE and STARE dataset gives more accuracy as compared to the models trained on individual DRIVE and STARE datasets. This allows organizations to work on each other's datasets without actually sharing them, providing a layer of privacy. <br>
-Also, these results are for dataset with about 40 images. The power of Privacy Preserving algotrithms imcrease as the dataset increases. 
+Also, these results are for dataset with about 40 images. The power of Privacy Preserving algotrithms increase as the dataset increases. 
 
 
 ## Authors
